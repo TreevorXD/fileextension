@@ -1,7 +1,7 @@
 # fileextension
 list of commonly used file name extensions
 
-.txt - Text File
+.txt - Text File \n
 .doc/.docx - Microsoft Word Document
 .pdf - Portable Document Format
 .xlsx/.xls - Microsoft Excel Spreadsheet

@@ -1,11 +1,16 @@
 # fileextension
 list of commonly used file name extensions
 
-.txt - Text File \n
+.txt - Text File
+
 .doc/.docx - Microsoft Word Document
+
 .pdf - Portable Document Format
+
 .xlsx/.xls - Microsoft Excel Spreadsheet
+
 .ppt/.pptx - Microsoft PowerPoint Presentation
+
 .jpg/.jpeg - JPEG Image
 .png - Portable Network Graphics Image
 .gif - Graphics Interchange Format Image
